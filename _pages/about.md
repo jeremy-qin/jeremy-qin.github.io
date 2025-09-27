@@ -9,14 +9,14 @@ redirect_from:
 
 I am a second-year M.Sc. research student in Computer Science at Université de Montréal, Mila and CRCHUM, co-advised by Prof. Bang Liu and Dr. Quoc Nguyen as part of the Applied Computational Linguistics Lab. I am also an incoming PhD student at the Max-Planck Institute for Intelligent Systems and the Ellis Institute of Tubingen under the supervision of Prof. Maksym Andriushchenko. 
 
-I am a researcher in machine learning interpretability, representation engineering, and AI safety. My current work explores how large language models (LLMs) can be aligned and calibrated by leveraging insights from model interpretability with a focus on concept-based explanations.
+I am a researcher in machine learning interpretability, representation engineering, and AI safety. During my Masters, I mainly explored how large language models (LLMs) can be aligned and calibrated by leveraging insights from model interpretability with a focus on concept-based explanations. Currently, I am working on understanding and evaluating the long-horizon capabilities of AI Agents, with particular emphasis on understanding and quantifying potential risks associated with increasingly autonomous AI systems.
 
 I am broadly interested in:
 
 - Representation learning 
 - Concept-based Explainability (TCAV, CAVs, Activation Steering)
 - Actionable Interpretability
-- LLM Alignment
+- AI Safety/LLM Alignment
 
 During my undergraduate and graduate studies, I also led the UdeM AI undergraduate club to participate in many networking and conference events as well as participated in many volunteering initiatives. Outside of research, I am a big fan of racket sports. 
 
