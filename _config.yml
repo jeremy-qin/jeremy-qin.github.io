@@ -25,11 +25,11 @@ author:
   avatar           : "myphoto.jpg"
   name             : "Jeremy Qin"
   pronouns         : # example: "she/her"  
-  bio              : "MSc. Student"
-  location         : "Montreal, Canada"
-  employer         : "MILA - Quebec AI Institute"
+  bio              : "PhD Student"
+  location         : "Tubingen, Germany"
+  employer         : "Ellis Institute Tubingen & MPI-IS"
   uri              : # URL
-  email            : "jeremy.qin@umontreal.ca" 
+  email            : "jeremy.qin@tue.ellis.eu" 
 
   # Academic websites
   academia         : # URL
