@@ -23,33 +23,24 @@ During my undergraduate and graduate studies, I also led the UdeM AI undergradua
 # Selected Publications
 
 **QuantSightBench: Evaluating LLM Quantitative Forecasting with Prediction Intervals**  
-*arXiv preprint, 2026*
-
-We introduce a benchmark of 1,000 real-world numerical forecasting questions to assess whether LLMs can produce calibrated 90% prediction intervals, revealing systematic overconfidence across frontier models.
-
+*arXiv preprint, 2026*  
+We introduce a benchmark of 1,000 real-world numerical forecasting questions to assess whether LLMs can produce calibrated 90% prediction intervals, revealing systematic overconfidence across frontier models.  
 [[Paper]](https://arxiv.org/abs/2604.15859) [[Website]](https://quantsightbench.com/)
 
 **Activation Steering for Conditional Molecular Generation**  
-*AI4Mat Workshop @ NeurIPS 2025*
-
-We enable conditional molecular generation by directly manipulating internal LLM representations using concept bottleneck models and activation steering.
-
+*AI4Mat Workshop @ NeurIPS 2025*  
+We enable conditional molecular generation by directly manipulating internal LLM representations using concept bottleneck models and activation steering.  
 [[Paper]](https://openreview.net/pdf?id=e8bcQehZ15)
 
 **Multilingual Assessment of Stereotypes in Large Language Models**  
-*NAACL 2025*
-
-We build and assess multilingual stereotypes across different LLMs.
-
+*NAACL 2025*  
+We build and assess multilingual stereotypes across different LLMs.  
 [[Paper]](https://aclanthology.org/2025.naacl-long.600.pdf)
 
-**Calibrating Large Language Models with Concept Activation Vectors for Medical QA**
-
+**Calibrating Large Language Models with Concept Activation Vectors for Medical QA**  
 We propose a novel framework for calibrating LLM uncertainty through Concept Activation Vectors, improving safety and calibration in high-stakes medical decision making.
 
 **Atypicality-Aware Calibration of LLMs for Medical QA**  
-*Findings of EMNLP 2024*
-
-We propose a novel method for eliciting LLM confidence in Medical QA by leveraging insights from medical atypical presentations.
-
+*Findings of EMNLP 2024*  
+We propose a novel method for eliciting LLM confidence in Medical QA by leveraging insights from medical atypical presentations.  
 [[Paper]](https://aclanthology.org/2024.findings-emnlp.142.pdf)
