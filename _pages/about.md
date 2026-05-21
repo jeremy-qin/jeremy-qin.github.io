@@ -29,16 +29,12 @@ We introduce a benchmark of 1,000 real-world numerical forecasting questions to 
 
 [[Paper]](https://arxiv.org/abs/2604.15859) [[Website]](https://quantsightbench.com/)
 
-&nbsp;
-
 **Activation Steering for Conditional Molecular Generation**  
 *AI4Mat Workshop @ NeurIPS 2025*
 
 We enable conditional molecular generation by directly manipulating internal LLM representations using concept bottleneck models and activation steering.
 
 [[Paper]](https://openreview.net/pdf?id=e8bcQehZ15)
-
-&nbsp;
 
 **Multilingual Assessment of Stereotypes in Large Language Models**  
 *NAACL 2025*
@@ -47,13 +43,9 @@ We build and assess multilingual stereotypes across different LLMs.
 
 [[Paper]](https://aclanthology.org/2025.naacl-long.600.pdf)
 
-&nbsp;
-
 **Calibrating Large Language Models with Concept Activation Vectors for Medical QA**
 
 We propose a novel framework for calibrating LLM uncertainty through Concept Activation Vectors, improving safety and calibration in high-stakes medical decision making.
-
-&nbsp;
 
 **Atypicality-Aware Calibration of LLMs for Medical QA**  
 *Findings of EMNLP 2024*
