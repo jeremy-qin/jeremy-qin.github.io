@@ -20,14 +20,36 @@ During my undergraduate and graduate studies, I also led the UdeM AI undergradua
 
 ---
 
+# Work Experience
+
+**Machine Learning Researcher Intern, RBC Borealis**
+*May 2026 &ndash; Present*
+Working on automated AI R&D.
+
+---
+
 # Selected Publications
+
+**ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D**
+*In Review*
+We introduce ResearchArena, a framework spanning four long-horizon AI R&D tasks that evaluates whether frontier agents can covertly sabotage the artifacts they produce, and whether monitors can catch them before deployment.
+
+**Evaluating Long-Form Forecasts by Their Effect on Downstream Predictions**
+*ICML 2026 AI Forecasting Workshop*
+We propose evaluating long-form forecasts by how much they improve a downstream predictor's accuracy on real-world events, rather than requiring a single ground-truth outcome.
+[[Paper]](https://openreview.net/forum?id=BscmCO2BMk)
+
+**QuantSightBench: Evaluating LLM Quantitative Forecasting with Prediction Intervals**
+*arXiv preprint, 2026*
+We introduce a benchmark evaluating LLM forecasting through prediction intervals, finding that frontier models are systematically overconfident and fail to reach target coverage.
+[[Paper]](https://arxiv.org/abs/2604.15859)
 
 **Activation Steering for Conditional Molecular Generation**
 *AI4Mat Workshop @ NeurIPS 2025*
 We enable conditional molecular generation by directly manipulating internal LLM representations using concept bottleneck models and activation steering.
 [[Paper]](https://openreview.net/pdf?id=e8bcQehZ15)
 
-**Multilingual Assessment of Stereotypes in Large Language Models**
+**SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models**
 *NAACL 2025*
 We build and assess multilingual stereotypes across different LLMs.
 [[Paper]](https://aclanthology.org/2025.naacl-long.600.pdf)
