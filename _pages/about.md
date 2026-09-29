@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the **Max-Planck Institute for Intelligent Systems** and the **ELLIS Institute of Tubingen** under the supervision of [**Maksym Andriushchenko**](https://www.andriushchenko.me/) in the **AI Safety and Alignment** group. I completed my Masters in Artificial Intelligence at Universit&eacute; de Montr&eacute;al, Mila and CRCHUM, co-advised by [Prof. Bang Liu](https://www-labs.iro.umontreal.ca/~liubang/) and [Dr. Quoc Nguyen](https://www.chumontreal.qc.ca/en/crchum/chercheurs/quoc-dinh-nguyen) as part of the Applied Computational Linguistics Lab.
+I am a PhD student at the **Max-Planck Institute for Intelligent Systems** and the **ELLIS Institute of Tubingen** under the supervision of [**Maksym Andriushchenko**](https://www.andriushchenko.me/) in the **AI Safety and Alignment** group. I am also an [**HFC Scale AI Fellow**](https://hfc.scale.com/) working with [Eyon Jang](https://www.eyonjang.me/). I completed my Masters in Artificial Intelligence at Universit&eacute; de Montr&eacute;al, Mila and CRCHUM, co-advised by [Prof. Bang Liu](https://www-labs.iro.umontreal.ca/~liubang/) and [Dr. Quoc Nguyen](https://www.chumontreal.qc.ca/en/crchum/chercheurs/quoc-dinh-nguyen) as part of the Applied Computational Linguistics Lab.
 
 My current research focuses on understanding and evaluating long-horizon capabilities of AI agents, with particular emphasis on quantifying potential risks associated with increasingly autonomous AI systems. My main focus revolves around **forecasting** and **automated AI R&D**, which I believe to be essential benchmarks for assessing AI capabilities. During my Masters, I explored how large language models can be aligned and calibrated by leveraging insights from model interpretability, with a focus on concept-based explanations.
 
@@ -21,6 +21,10 @@ During my undergraduate and graduate studies, I also led the UdeM AI undergradua
 ---
 
 # Work Experience
+
+**HFC Scale AI Fellow, Scale AI**  
+*September 2026 &ndash; Present*  
+Fellow in the [Human Frontier Collective](https://hfc.scale.com/).
 
 **Machine Learning Researcher Intern, RBC Borealis**  
 *May 2026 &ndash; Present*  
@@ -44,8 +48,9 @@ We introduce Continual AutoResearch to evaluate whether AI research agents retai
 We introduce Meta Agent Graph Search (MAGS), where an LLM meta agent automatically discovers graph search strategies that match or outperform hand-designed ones like I-MCTS, MLEvolve and OpenEvolve on AlphaEvolve benchmark tasks.
 
 **ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D**  
-*In Review*  
-We introduce ResearchArena, a framework spanning four long-horizon AI R&D tasks that evaluates whether frontier agents can covertly sabotage the artifacts they produce, and whether monitors can catch them before deployment.
+*arXiv preprint, 2026*  
+We introduce ResearchArena, a framework spanning four long-horizon AI R&D tasks that evaluates whether frontier agents can covertly sabotage the artifacts they produce, and whether monitors can catch them before deployment.  
+[[Paper]](https://arxiv.org/abs/2607.19321)
 
 **Evaluating Long-Form Forecasts by Their Effect on Downstream Predictions**  
 *ICML 2026 AI Forecasting Workshop*  
