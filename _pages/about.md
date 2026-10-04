@@ -40,11 +40,11 @@ We show that local LLM agents can easily remove traces of their own actions, oft
 [[Paper]](https://arxiv.org/abs/2609.30266)
 
 **From AutoResearch to Continual AutoResearch: Do Agents Learn Across Tasks?**  
-*NeurIPS 2026 MetaAgents Workshop (In Review)*  
+*NeurIPS 2026 MetaAgents Workshop*  
 We introduce Continual AutoResearch to evaluate whether AI research agents retain and transfer experience across sequential ML tasks, finding that persistent state improves research efficiency but not consistently final performance.
 
 **Automated Design of Graph Search Strategies for Algorithmic Optimization**  
-*NeurIPS 2026 MetaAgents Workshop (In Review)*  
+*NeurIPS 2026 MetaAgents Workshop*  
 We introduce Meta Agent Graph Search (MAGS), where an LLM meta agent automatically discovers graph search strategies that match or outperform hand-designed ones like I-MCTS, MLEvolve and OpenEvolve on AlphaEvolve benchmark tasks.
 
 **ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D**  
