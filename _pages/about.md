@@ -37,7 +37,7 @@ Working on automated AI R&D.
 **LLM Agents Can Easily Tamper With Their Own Traces**  
 *arXiv preprint, 2026*  
 We show that local LLM agents can easily remove traces of their own actions, often without triggering safety mechanisms, and that trace tampering emerges naturally in frontier models seeking higher reward.  
-[[Paper]](https://arxiv.org/abs/2609.30266)
+[[Paper]](https://arxiv.org/abs/2609.30266) [[Featured in Fast Company]](https://www.fastcompany.com/91617608/ai-agents-can-now-erase-the-evidence-of-what-theyve-done)
 
 **From AutoResearch to Continual AutoResearch: Do Agents Learn Across Tasks?**  
 *NeurIPS 2026 MetaAgents Workshop*  
