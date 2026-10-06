@@ -35,7 +35,7 @@ Working on automated AI R&D.
 # Selected Publications
 
 **LLM Agents Can Easily Tamper With Their Own Traces**  
-<span class="pub-authors">**Jeremy Qin**, David Schmotz, Derck Prinzhorn, Luca Beurer-Kellner, Ameya Prabhu, Maksym Andriushchenko</span>  
+<span class="pub-authors">**Jeremy Qin**\*, David Schmotz\*, Derck Prinzhorn, Luca Beurer-Kellner, Ameya Prabhu, Maksym Andriushchenko <em>(\* equal contribution)</em></span>  
 *arXiv preprint, 2026*  
 We show that local LLM agents can easily remove traces of their own actions, often without triggering safety mechanisms, and that trace tampering emerges naturally in frontier models seeking higher reward.  
 [[Paper]](https://arxiv.org/abs/2609.30266) [[Featured in Fast Company]](https://www.fastcompany.com/91617608/ai-agents-can-now-erase-the-evidence-of-what-theyve-done)
