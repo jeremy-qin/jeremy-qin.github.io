@@ -57,7 +57,7 @@ We introduce ResearchArena, a framework spanning four long-horizon AI R&D tasks 
 [[Paper]](https://arxiv.org/abs/2607.19321)
 
 **Evaluating Long-Form Forecasts by Their Effect on Downstream Predictions**  
-<span class="pub-authors">**Jeremy Qin**\*, Nikhil Chandak\*, Shashwat Goel\*, Hardik Bhatnagar, Ameya Prabhu, Jonas Geiping, Moritz Hardt, Maksym Andriushchenko</span>  
+<span class="pub-authors">**Jeremy Qin**\*, Nikhil Chandak\*, Shashwat Goel\*, Hardik Bhatnagar, Ameya Prabhu, Jonas Geiping, Moritz Hardt, Maksym Andriushchenko <em>(\* equal contribution)</em></span>  
 *ICML 2026 AI Forecasting Workshop*  
 We propose evaluating long-form forecasts by how much they improve a downstream predictor's accuracy on real-world events, rather than requiring a single ground-truth outcome.  
 [[Paper]](https://openreview.net/forum?id=BscmCO2BMk)
@@ -68,7 +68,7 @@ We propose evaluating long-form forecasts by how much they improve a downstream 
 We introduce a benchmark evaluating LLM forecasting through prediction intervals, finding that frontier models are systematically overconfident and fail to reach target coverage.  
 [[Paper]](https://arxiv.org/abs/2604.15859)
 
-**Activation Steering for Conditional Molecular Generation**  
+**Concept-based Steering of Large Language Models for Conditional Molecular Generation**  
 <span class="pub-authors">**Jeremy Qin**, Rushil Gupta, Boris Knyazev, Yan Zhang, Glen Berseth, Bang Liu</span>  
 *AI4Mat Workshop @ NeurIPS 2025*  
 We enable conditional molecular generation by directly manipulating internal LLM representations using concept bottleneck models and activation steering.  
