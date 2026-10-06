@@ -399,3 +399,16 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Publication authors
+   ========================================================================== */
+
+.pub-authors {
+  font-size: 0.9em;
+  color: var(--global-text-color-light);
+
+  strong {
+    color: var(--global-text-color);
+  }
+}
